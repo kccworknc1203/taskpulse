@@ -6,7 +6,7 @@ A full-stack, agile issue tracking platform engineered with the Next.js App Rout
 
 ## Live Demo & Repository
 
-- **Live Demo:** [https://taskpulse.vercel.app]([https://taskpulse.vercel.app](https://taskpulse-woad.vercel.app/))
+- **Live Demo:** [https://taskpulse-woad.vercel.app/](https://taskpulse-woad.vercel.app/)
 - **GitHub Repository:** [https://github.com/kccworknc1203/taskpulse](https://github.com/kccworknc1203/taskpulse)
 
 ---
